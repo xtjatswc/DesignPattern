@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\.Net-DesignPattern-master\其它\桥接模式\bin\Debug\桥接模式.exe
+C:\Users\pc\Desktop\.Net-DesignPattern-master\其它\桥接模式\bin\Debug\桥接模式.pdb
+C:\Users\pc\Desktop\.Net-DesignPattern-master\其它\桥接模式\obj\Debug\桥接模式.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\.Net-DesignPattern-master\其它\桥接模式\obj\Debug\桥接模式.exe
+C:\Users\pc\Desktop\.Net-DesignPattern-master\其它\桥接模式\obj\Debug\桥接模式.pdb
+C:\Users\pc\Desktop\.Net-DesignPattern-master\结构型模式\桥接模式\bin\Debug\桥接模式.exe
+C:\Users\pc\Desktop\.Net-DesignPattern-master\结构型模式\桥接模式\bin\Debug\桥接模式.pdb
+C:\Users\pc\Desktop\.Net-DesignPattern-master\结构型模式\桥接模式\obj\Debug\桥接模式.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\.Net-DesignPattern-master\结构型模式\桥接模式\obj\Debug\桥接模式.exe
+C:\Users\pc\Desktop\.Net-DesignPattern-master\结构型模式\桥接模式\obj\Debug\桥接模式.pdb

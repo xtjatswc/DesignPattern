@@ -63,6 +63,7 @@ namespace 解释器模式
 
     /// <summary>
     /// 步骤 2 创建实现了上述接口的实体类。
+    /// 终结符解释器
     /// </summary>
     public class TerminalExpression : Expression
     {
@@ -83,6 +84,9 @@ namespace 解释器模式
         }
     }
 
+    /// <summary>
+    /// 非终结符解释器
+    /// </summary>
     public class OrExpression : Expression
     {
         private Expression expr1 = null;
@@ -100,6 +104,9 @@ namespace 解释器模式
         }
     }
 
+    /// <summary>
+    /// 非终结符解释器
+    /// </summary>
     public class AndExpression : Expression
     {
         private Expression expr1 = null;
